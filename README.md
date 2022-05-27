@@ -1,1 +1,13 @@
-# National-eID-Card-Verify-System-with-Smart-Contract
+# National eID Card Verify System with Smart Contract
+
+
+# 概要
+研究用に作成したIOSアプリケーションです．
+マイナンバーカードをかざすこと(NFC規格)で以下のことが可能です
+・任意も文字列の電子署名の作成
+・その検証をスマートコントラクト上で実行
+(マイナンバーカードの所有者とそのPINを知る人がトランザクションを発行したことを確認できるようなシステムです)
+
+他人に見せられない酷いコードです....
+自分のコードを保存用においてます
+
